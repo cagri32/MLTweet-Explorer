@@ -129,3 +129,57 @@ Feedback from peer evaluations influenced improvements, including the addition o
 ## References
 
 Datasets from Kaggle and GitHub were used for politics, sports, technology, health, and finance tweets.
+
+## Visualizations
+
+Include visual representations of clusters, word clouds, and other relevant images.
+
+### Cluster 1 - Financial Markets and Stocks
+
+![Cluster 1](images/Picture2.png)
+
+#### Subclusters
+
+![Subcluster 1](images/Picture12.png)
+![Subcluster 2](images/Picture13.png)
+![Subcluster 3](images/Picture14.png)
+
+### Cluster 2 - Public Health and Pandemic Updates
+
+![Cluster 2](images/Picture3.png)
+
+#### Subclusters
+
+![Subcluster 1](images/Picture18.png)
+![Subcluster 2](images/Picture19.png)
+![Subcluster 3](images/Picture20.png)
+
+### Cluster 3 - Political Affairs and News
+
+![Cluster 3](images/Picture4.png)
+
+#### Subclusters
+
+![Subcluster 1](images/Picture7.png)
+![Subcluster 2](images/Picture8.png)
+![Subcluster 3](images/Picture10.png)
+
+### Cluster 4 - Global Football Events
+
+![Cluster 4](images/Picture5.png)
+
+#### Subclusters
+
+![Subcluster 1](images/Picture21.png)
+![Subcluster 2](images/Picture22.png)
+![Subcluster 3](images/Picture23.png)
+
+### Cluster 5 - Technology Trends and Innovations
+
+![Cluster 5](images/Picture6.png)
+
+#### Subclusters
+
+![Subcluster 1](images/Picture15.png)
+![Subcluster 2](images/Picture16.png)
+![Subcluster 3](images/Picture17.png)
